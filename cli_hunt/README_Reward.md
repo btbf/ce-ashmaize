@@ -1,4 +1,4 @@
-# ⚙️ Midnight Scavenger CLI Miner – Challenge Data Analyzer (Unofficial Tool)
+# ⚙️ Midnight Scavenger CLI Miner – Reward Aggregation Tool
 
 ## 🔧 Improvements & Contribution Notes  
 **English / 日本語併記版**
