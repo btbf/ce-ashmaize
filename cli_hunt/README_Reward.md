@@ -25,14 +25,12 @@ You can download and run **only the analysis script** without cloning the whole 
 > `ce-ashmaize/cli_hunt/python_orchestrator/`
 
 ```bash
+# Place your challenges.json in the same directory and run
+cd ce-ashmaize/cli_hunt/python_orchestrator/
+
 # Download the script directly
 curl -O https://raw.githubusercontent.com/btbf/ce-ashmaize/refs/heads/reward-aggregation/cli_hunt/python_orchestrator/reward_aggregation.py
 
-# Move it into your Midnight miner folder
-mv challenges_aggregation.py ce-ashmaize/cli_hunt/python_orchestrator/
-
-# Place your challenges.json in the same directory and run
-cd ce-ashmaize/cli_hunt/python_orchestrator/
 python3 challenges_aggregation.py
 ````
 
@@ -123,16 +121,14 @@ You can also:
 > `ce-ashmaize/cli_hunt/python_orchestrator/`
 
 ```bash
-# スクリプトを直接ダウンロード
+# Place your challenges.json in the same directory and run
+cd ce-ashmaize/cli_hunt/python_orchestrator/
+
+# Download the script directly
 curl -O https://raw.githubusercontent.com/btbf/ce-ashmaize/refs/heads/reward-aggregation/cli_hunt/python_orchestrator/reward_aggregation.py
 
-# Midnight miner のフォルダに移動
-mv challenges_aggregation.py ce-ashmaize/cli_hunt/python_orchestrator/
-
-# 同じディレクトリに challenges.json を置いて実行
-cd ce-ashmaize/cli_hunt/python_orchestrator/
 python3 challenges_aggregation.py
-```
+````
 
 もし次のようなエラーが出た場合：
 
