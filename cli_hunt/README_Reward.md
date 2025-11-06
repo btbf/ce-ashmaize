@@ -31,7 +31,7 @@ cd ce-ashmaize/cli_hunt/python_orchestrator/
 # Download the script directly
 curl -O https://raw.githubusercontent.com/btbf/ce-ashmaize/refs/heads/reward-aggregation/cli_hunt/python_orchestrator/reward_aggregation.py
 
-python3 challenges_aggregation.py
+python3 reward_aggregation.py
 ````
 
 If you see an error such as:
@@ -127,7 +127,7 @@ cd ce-ashmaize/cli_hunt/python_orchestrator/
 # Download the script directly
 curl -O https://raw.githubusercontent.com/btbf/ce-ashmaize/refs/heads/reward-aggregation/cli_hunt/python_orchestrator/reward_aggregation.py
 
-python3 challenges_aggregation.py
+python3 reward_aggregation.py
 ````
 
 もし次のようなエラーが出た場合：
