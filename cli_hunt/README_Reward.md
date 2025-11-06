@@ -1,4 +1,3 @@
-````markdown
 # ⚙️ Midnight Scavenger CLI Miner – Challenge Data Analyzer (Unofficial Tool)
 
 ## 🔧 Improvements & Contribution Notes  
